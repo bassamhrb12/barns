@@ -1,0 +1,6 @@
+python-telegram-bot==22.3
+selenium==4.34.2
+webdriver-manager==4.0.2
+asyncio
+openai
+
